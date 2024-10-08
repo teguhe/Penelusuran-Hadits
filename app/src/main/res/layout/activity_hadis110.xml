@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".hadis110">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:text="Hadis 10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="18dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Tentang Berbuat Baik kepada Orang Tua"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Dalam Al-Quran terdapat beberapa kelompok ayat yang memerintahkan berbakti kepada kedua orangtua. Begitu pentingnya berbakti ini sampai Rasulullah berkepentingan menjelaskan secara lebih detail sebagaimana disebutkan dalam beberapa hadis misalnya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا أَبُو الْوَلِيدِ هِشَامُ بْنُ عَبْدِ الْمَلِكِ قَالَ حَدَّثَنَا شُعْبَةُ قَالَ الْوَلِيدُ بْنُ الْعَيْزَارِ أَخْبَرَنِي قَالَ سَمِعْتُ أَبَا عَمْرٍو الشَّيْبَانِيَّ يَقُولُ حَدَّثَنَا صَاحِبُ هَذِهِ الدَّارِ وَأَشَارَ إِلَى دَارِ عَبْدِ اللَّهِ قَالَ
+سَأَلْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَيُّ الْعَمَلِ أَحَبُّ إِلَى اللَّهِ قَالَ الصَّلَاةُ عَلَى وَقْتِهَا قَالَ ثُمَّ أَيٌّ قَالَ ثُمَّ بِرُّ الْوَالِدَيْنِ قَالَ ثُمَّ أَيٌّ قَالَ الْجِهَادُ فِي سَبِيلِ اللَّهِ قَالَ حَدَّثَنِي بِهِنَّ وَلَوْ اسْتَزَدْتُهُ لَزَادَنِي
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 496) : Telah menceritakan kepada kami Abu Al Walid Hisyam bin 'Abdul Malik berkata, telah menceritakan kepada kami Syu'bah berkata, telah mengabarkan kepadaku Al Walid bin Al 'Aizar berkata, Aku mendengar Abu 'Amru Asy Syaibani berkata, ''Pemilik rumah ini menceritakan kepada kami -seraya menunjuk rumah 'Abdullah - ia berkata, ''Aku pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, ''Amal apakah yang paling dicintai oleh Allah?'' Beliau menjawab: ''Shalat pada waktunya.'' 'Abdullah bertanya lagi, ''Kemudian apa kagi?'' Beliau menjawab: ''Kemudian berbakti kepada kedua orangtua.'' 'Abdullah bertanya lagi, ''Kemudian apa kagi?'' Beliau menjawab: ''Jihad fi sabilillah.'' 'Abdullah berkata, ''Beliau sampaikan semua itu, sekiranya aku minta tambah, niscaya beliau akan menambahkannya untukku.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis yang berisi dialog antara seorang shahabat dengan Rasulullah ini menerangkan tentang amal yang paling dicintai oleh Allah. Beliau menjelaskan, dan dengan urutan ini tampaknya didasarkan skala prioritas, 1. Shalat tepat waktu, 2. Berbakti kepada orang tua, dan 3. Jihad fi sabilillah, yang wujudnya pada masa itu perang membela agama menghadapi serangan orang kafir."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Sesuai dengan topik ini kita melihat bahwa berbakti kepada kedua orang tua lebih didahulukan sebagai jawaban tentang amal yang paling dicintai oleh Allah disbanding jihad fi sabilillah. Hal ini sejalan dengan hadis yang menunjukkan bahwa Rasulullah mengizinkan salah seorang shahabat untuk tidak berperang karena sedang merawat orang tuanya yang sedang membutuhkan, sebagaimana dalam sebuah hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="... عَبْدَ اللَّهِ بْنَ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا يَقُولُ
+جَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاسْتَأْذَنَهُ فِي الْجِهَادِ فَقَالَ أَحَيٌّ وَالِدَاكَ قَالَ نَعَمْ قَالَ فَفِيهِمَا فَجَاهِدْ
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 2782) : …'Abdullah bin 'Amru radliallahu 'anhuma berkata: ''Datang seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam lalu meminta izin untuk ikut berjihad. Maka Beliau bertanya: ''Apakah kedua orang tuamu masih hidup?'' Laki-laki itu menjawab: ''Iya''. Maka Beliau berkata: ''Kepada keduanyalah kamu berjihad (berbakti)''. Hadis riwayat al-Bukhari, Muslim, Abu Daud."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Selanjutnya dinyatakan bahwa berbakti kepada ibu lebih utama lipat tiga disbanding dengan berbakti kepada ayah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا جَرِيرٌ عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ بْنِ شُبْرُمَةَ عَنْ أَبِي زُرْعَةَ عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ
+جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَحَقُّ النَّاسِ بِحُسْنِ صَحَابَتِي قَالَ أُمُّكَ قَالَ ثُمَّ مَنْ قَالَ ثُمَّ أُمُّكَ قَالَ ثُمَّ مَنْ قَالَ ثُمَّ أُمُّكَ قَالَ ثُمَّ مَنْ قَالَ ثُمَّ أَبُوكَ
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="(BUKHARI - 5514) : Telah menceritakan kepada kami Qutaibah bin Sa'id telah menceritakan kepada kami Jarir dari 'Umarah bin Al Qa'qa' bin Syubrumah dari Abu Zur'ah dari Abu Hurairah radliallahu 'anhu dia berkata; ''Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; ''Wahai Rasulullah, siapakah orang yang paling berhak aku berbakti kepadanya?'' beliau menjawab: ''Ibumu.'' Dia bertanya lagi; ''Kemudian siapa?'' beliau menjawab: ''Ibumu.'' Dia bertanya lagi; ''kemudian siapa lagi?'' beliau menjawab: ''Ibumu.'' Dia bertanya lagi; ''Kemudian siapa?'' dia menjawab: ''Kemudian ayahmu.'' "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hadishal3">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="monospace"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Hadis I"
+        android:gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/tv_hadis11"
+                android:text="Hadis 1 Tentang Niat untuk Beraktfitas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 2 Tentang Iman, Islam, Ihsan, dan Tanda-tanda Datangnya Hari Qiyamat"
+                android:id="@+id/tv_hadis12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 3 Tentang Implementasi Iman, Islam, dan Ihsan"
+                android:id="@+id/tv_hadis13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 4 Tentang Perbuatan Dosa-dosa Besar"
+                android:id="@+id/tv_hadis14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 5 Tentang Keutamaan Ilmu dan Perintah Menuntut Ilmu"
+                android:id="@+id/tv_hadis15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 6 Tentang Persaudaraan dan Solidaritas Islam"
+                android:id="@+id/tv_hadis16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 7 Tentang Perbuatan Terpuji"
+                android:id="@+id/tv_hadis17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 8 Tentang Perbuatan Tercela"
+                android:id="@+id/tv_hadis18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="Hadis 9 Tentang Perintah Menikah dan Larangan Membujang"
+                android:id="@+id/tv_hadis19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/tv_hadis110"
+                android:text="Hadis 10 Tentang Berbuat Baik kepada Orang Tua"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/tv_hadis111"
+                android:text="Hadis 11 Tentang Kepemimpinan dan Pemerintahan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

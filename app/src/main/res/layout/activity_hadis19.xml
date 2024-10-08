@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".hadis19">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Hadis 9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:gravity="center_horizontal"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Tentang Perintah Menikah dan Larangan Membujang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="20dp"
+                android:background="#79ffffff"
+                android:text="أَخْبَرَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنْ عَلْقَمَةَ قَالَ
+كُنْتُ أَمْشِي مَعَ عَبْدِ اللَّهِ بِمِنًى فَلَقِيَهُ عُثْمَانُ فَقَامَ مَعَهُ يُحَدِّثُهُ فَقَالَ لَهُ عُثْمَانُ يَا أَبَا عَبْدِ الرَّحْمَنِ أَلَا نُزَوِّجُكَ جَارِيَةً شَابَّةً لَعَلَّهَا تُذَكِّرُكَ بَعْضَ مَا مَضَى مِنْ زَمَانِكَ قَالَ فَقَالَ عَبْدُ اللَّهِ لَئِنْ قُلْتَ ذَاكَ لَقَدْ قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا مَعْشَرَ الشَّبَابِ مَنْ اسْتَطَاعَ مِنْكُمْ الْبَاءَةَ فَلْيَتَزَوَّجْ فَإِنَّهُ أَغَضُّ لِلْبَصَرِ وَأَحْصَنُ لِلْفَرْجِ وَمَنْ لَمْ يَسْتَطِعْ فَعَلَيْهِ بِالصَّوْمِ فَإِنَّهُ لَهُ وِجَاءٌ.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Telah mengabarkan kepada kami Abu Mu'awiyah dari Al A'masy dari Ibrahim dari 'Alqamah ia berkata; Aku pernah berjalan bersama Abdullah di Mina, lalu ia dijumpai oleh Utsman. Maka ia pun berdiri bersamanya dan menceritakan hadits padanya. Utsman berkata, ''Wahai Abu Abdurrahman, maukah Anda kami nikahkan dengan seorang budak wanita yang masih gadis, sehingga ia dapat mengingatkan masa lalumu.'' Abdullah berkata; Jika Anda berkata seperti itu, maka sungguh, Rasulullah shallallahu 'alaihi wasallam telah bersabda kepada kami: ''Wahai para pemuda, siapa di antara kalian yang telah memperoleh kemampuan (menghidupi rumah tangga), kawinlah. Karena sesungguhnya, perhikahan itu lebih mampu menahan pandangan mata dan menjaga kemaluan. Dan, barangsiapa belum mampu melaksanakannya, hendaklah ia berpuasa karena puasa itu akan meredakan gejolak hasrat seksual.'' Hadis riwayat al-Bukhari, Muslim (Teks hadis diambil dari shahih Muslim)
+            "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Pesan-pesan Hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini menceritakan seruan Rasulullah kepada sekelompok remaja yang mempunyai kemampuan menikah secara mental, financial dan fisik agar menikah. Tampaknya telah dimaklumi bahwa orang usia remaja mempunyai dorongan seksual yang membuat bergairah dalam hidup. Namun demikan apabila salah menyalurkan ia masuk wilayah berbahaya. Karena itu diperintahkan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1.	Menikah bagi yang mampu. Menikah dapat meredam nafsu dan pandangan mata untuk melakukan maksiyat. Kalau sudah menikah masih juga maksiyat itu memang dasar orangnya suka menerima ajakan setan. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="2.	Menahan dengan puasa bagi yang tidak mampu agar dapat meredakan gejolak. Dengan puasa kita merasa sedang berada dalam suasana diawasi oleh Allah, dengan demikian takut berbuat maksiat."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis lain berbunyi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ أَخْبَرَنَا مُحَمَّدُ بْنُ جَعْفَرٍ أَخْبَرَنَا حُمَيْدُ بْنُ أَبِي حُمَيْدٍ الطَّوِيلُ أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ يَقُولُ
+جَاءَ ثَلَاثَةُ رَهْطٍ إِلَى بُيُوتِ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْأَلُونَ عَنْ عِبَادَةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَمَّا أُخْبِرُوا كَأَنَّهُمْ تَقَالُّوهَا فَقَالُوا وَأَيْنَ نَحْنُ مِنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَدْ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ قَالَ أَحَدُهُمْ أَمَّا أَنَا فَإِنِّي أُصَلِّي اللَّيْلَ أَبَدًا وَقَالَ آخَرُ أَنَا أَصُومُ الدَّهْرَ وَلَا أُفْطِرُ وَقَالَ آخَرُ أَنَا أَعْتَزِلُ النِّسَاءَ فَلَا أَتَزَوَّجُ أَبَدًا فَجَاءَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَيْهِمْ فَقَالَ أَنْتُمْ الَّذِينَ قُلْتُمْ كَذَا وَكَذَا أَمَا وَاللَّهِ إِنِّي لَأَخْشَاكُمْ لِلَّهِ وَأَتْقَاكُمْ لَهُ لَكِنِّي أَصُومُ وَأُفْطِرُ وَأُصَلِّي وَأَرْقُدُ وَأَتَزَوَّجُ النِّسَاءَ فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي. رواه البخارى ومسلم
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 4675) : Telah menceritakan kepada kami Sa'id bin Amir Abu Maryam Telah mengabarkan kepada kami Muhammad bin Ja'far Telah mengabarkan kepada kami Humaid bin Abu Humaid Ath Thawil bahwa ia mendengar Anas bin Malik radliallahu 'anhu berkata; Ada tiga orang mendatangi rumah isteri-isteri Nabi shallallahu 'alaihi wasallam dan bertanya tentang ibadah Nabi shallallahu 'alaihi wasallam. Dan setelah diberitakan kepada mereka, sepertinya mereka merasa hal itu masih sedikit bagi mereka. Mereka berkata, ''Ibadah kita tak ada apa-apanya dibanding Rasulullah shallallahu 'alaihi wasallam, bukankah beliau sudah diampuni dosa-dosanya yang telah lalu dan juga yang akan datang?'' Salah seorang dari mereka berkata, ''Sungguh, aku akan shalat malam selama-lamanya.'' Kemudian yang lain berkata, ''Kalau aku, maka sungguh, aku akan berpuasa Dahr (setahun penuh) dan aku tidak akan berbuka.'' Dan yang lain lagi berkata, ''Aku akan menjauhi wanita dan tidak akan menikah selama-lamanya.'' Kemudian datanglah Rasulullah shallallahu 'alaihi wasallam kepada mereka seraya bertanya: ''Kalian berkata begini dan begitu. Ada pun aku, demi Allah, adalah orang yang paling takut kepada Allah di antara kalian, dan juga paling bertakwa. Aku berpuasa dan juga berbuka, aku shalat dan juga tidur serta menikahi wanita. Barangsiapa yang benci sunnahku, maka bukanlah dari golonganku.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Pesan-pesan Hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini mendeskripsikan 3 kelompok orang yang ingin mendekatkan diri kepada Allah agar dapat “mengejar ketinggalan” atas kualitas taqwa Rasulullah. Hanya, cara mereka berlebihan."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1.	Satu kelompok menyatakan akan salat semalam suntuk untuk selamanya
+2.	Satu kelompok lagi menyatakan akan berpuasa setiap hari tanpa ada hari tanpa puasa.
+3.	Satu kelompok lagi menyatakan akan membujang, tidak menikah.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="Semua itu dilakukan agar konsentrasi mendekatkan diri kepada Allah tidak terganggu oleh kesenangan duniawi. Mendengar pernyataan itu Rasulullah menganggapnya berlebihan, karena itu beliau menyuruh mereka bertindak wajar sebagaimana beliau. Malam hari ada waktu salat lail tetapi ada waktu tidur. Puasa itu baik, tetapi menjadi tidak baik bila dilakukan setiap hari. Menikah itu sunnah Nabi, diperintahkan bagi yang mampu. Maka orang yang tidak mau menikuti sunnah Rasul tidak termasuk ummat beliau."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

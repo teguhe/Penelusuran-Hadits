@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".hadis111">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Hadis 11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:gravity="center_horizontal"
+                android:textSize="18dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Tentang Kepemimpinan dan Pemerintahan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="20dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ حَدَّثَنِي أَبِي شُعَيْبُ بْنُ اللَّيْثِ حَدَّثَنِي اللَّيْثُ بْنُ سَعْدٍ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ عَنْ بَكْرِ بْنِ عَمْرٍو عَنْ الْحَارِثِ بْنِ يَزِيدَ الْحَضْرَمِيِّ عَنْ ابْنِ حُجَيْرَةَ الْأَكْبَرِ عَنْ أَبِي ذَرٍّ قَالَ
+قُلْتُ يَا رَسُولَ اللَّهِ أَلَا تَسْتَعْمِلُنِي قَالَ فَضَرَبَ بِيَدِهِ عَلَى مَنْكِبِي ثُمَّ قَالَ يَا أَبَا ذَرٍّ إِنَّكَ ضَعِيفٌ وَإِنَّهَا أَمَانَةُ وَإِنَّهَا يَوْمَ الْقِيَامَةِ خِزْيٌ وَنَدَامَةٌ إِلَّا مَنْ أَخَذَهَا بِحَقِّهَا وَأَدَّى الَّذِي عَلَيْهِ فِيهَا
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(MUSLIM - 3404) : Telah menceritakan kepada kami Abdul Malik bin Syu'aib bin Laits telah menceritakan kepadaku bapakku Syu'aib bin Laits telah menceritakan kepadaku Laits bin Sa'ad telah menceritakan kepadaku Yazid bin Abu Habib dari Bakr bin 'Amru dari Al Harits bin Yazid Al Hadhrami dari Ibnu Hujairah Al Akbar dari Abu Dzar dia berkata, saya berkata, ''Wahai Rasulullah, tidakkah anda menjadikanku sebagai pegawai (pejabat)?'' Abu Dzar berkata, ''Kemudian beliau menepuk bahuku dengan tangan beliau seraya bersabda: ''Wahai Abu Dzar, kamu ini lemah (untuk memegang jabatan) padahal jabatan merupakan amanah. Pada hari kiamat ia adalah kehinaan dan penyesalan, kecuali bagi siapa yang mengambilnya dengan haq dan melaksanakan tugas dengan benar.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Kandungan Hadis (larangan meminta jabatan)"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini menerangkan dialog antara Rasulullah saw dengan Abu Dzar, ketika dia bertanya ''Wahai Rasul, mengapa engkau tidak mengangku memegang jabatan tertentu?'' Beliau menjawab bahwa Abu Dzar tidak mempu memegang jabatan yang diminta. Artinya, "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1.	jabatan itu tidak diberikan karena kedekatan, atau karena pekewuh, atau menggunakan ''politik dagang sapi.'' Sebaliknya jabatan itu diberikan semata karena kompetensi atau profisionalisme.
+2.	Jabatan adalah amanah yang harus dipertanggungjawabkan dunia-akhirat.
+3.	Oarng yang tidak dapat melaksanakan amanat akan menyesal, terutama di akhirat.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالَا حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ وَهَذَا حَدِيثُ أَبِي بَكْرٍ قَالَ
+قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثٌ لَا يُكَلِّمُهُمْ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يَنْظُرُ إِلَيْهِمْ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ رَجُلٌ عَلَى فَضْلِ مَاءٍ بِالْفَلَاةِ يَمْنَعُهُ مِنْ ابْنِ السَّبِيلِ وَرَجُلٌ بَايَعَ رَجُلًا بِسِلْعَةٍ بَعْدَ الْعَصْرِ فَحَلَفَ لَهُ بِاللَّهِ لَأَخَذَهَا بِكَذَا وَكَذَا فَصَدَّقَهُ وَهُوَ عَلَى غَيْرِ ذَلِكَ وَرَجُلٌ بَايَعَ إِمَامًا لَا يُبَايِعُهُ إِلَّا لِدُنْيَا فَإِنْ أَعْطَاهُ مِنْهَا وَفَى وَإِنْ لَمْ يُعْطِهِ مِنْهَا لَمْ يَفِ
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(MUSLIM - 157) : Dan telah menceritakan kepada kami Abu Bakar bin Abu Syaibah dan Abu Kuraib keduanya berkata, telah menceritakan kepada kami Abu Mu'awiyah dari al-A'masy dari Abu Shalih dari Abu Hurairah (dan ini hadits Abu Bakar bin Abi Syaibah), dia (Abu Hurairah) berkata, ''Rasulullah shallallahu 'alaihi wasallam bersabda: ''Ada tiga golongan yang Allah tidak mengajak mereka berbicara, tidak melihat kepada mereka, tidak mensucikan mereka dan bagi mereka siksa yang pedih: Pertama seorang laki-laki yang memiliki sisa air di padang sahara sedangkan dia melarang musafir mengambilnya. Kedua seorang laki-laki yang menjual barang kepada orang lain setelah Ashar, dan dia bersumpah atas nama Allah bahwa modal ia membelia barang tersebut sekian dan sekian sehingga pembeli tersebut mempercayainya, padahal dia tidak demikian. Ketiga, seorang laki-laki yang membaiat seorang pemimpin yang mana dia tidak membaiatnya melainkan untuk urusan dunia, jika pemimpin tersebut memberinya dengan sesuatu maka dia penuhi janji setianya dan jika tidak maka dia tidak memenuhinya.'' Hadis riwayat al-Bukhari dan Muslim. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Kandungan Hadis (memilih pemimpin karena imbalan duniawi)"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini menuturkan bahwa ada 3 golongan orang yang kelak tidak akan pernah digbris oleh Allah SWT bahkan menerima siksaan pedih, yaitu "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1.	Orang yang punya kelebihan air di padang sahara tetapi tidak mau berbagi dengan orang yang kehausan melintas membutuhkan airnya. Maksudnya, orang pelit, ia kaya tidak peduli dengan orang fakir yangjelas membutuhkan pertolongannya.
+2.	Orang yang ketikatarnsaksi jual beli berkata bohong. Kata bakda Asar untuk menjelaskan bahwa jual beli tempo dulu dilakukan setelah udara berangsur sejuk yakni sesudah Asar, bukan ketika terik matahari. Kebohongan tersebut misalnya mengatakan bahwa ketika penjual membeli dagangannya dengan harga tinggi melebihi harga yang sebenarnya.
+3.	Orang yang membaiat/memilih/mengangkat pemimpin melalui tawar menawar. Ia meminta agar calon pemimpin berjanji memberikan sesuatu untuk dipilih. Bila tidak mu maka ia tidak jadi memilihnya, tetapi kalau mau ia jadi akan memilihnya.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Point yang ketiga inilah di era sekarang disebut money politic, melanda di tengah bangsa Indonesia yang mayoritas muslim. Meskipun hadis ini sering disebutkan dalam berbagai majlis taklim namun disikapi sebagai angin lalu."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

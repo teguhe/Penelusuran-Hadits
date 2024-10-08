@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".hadis16">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Hadis 6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Persaudaraan dan Solidaritas Islam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="20dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ حَدَّثَنَا اللَّيْثُ عَنْ عُقَيْلٍ عَنْ ابْنِ شِهَابٍ أَنَّ سَالِمًا أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْمُسْلِمُ أَخُو الْمُسْلِمِ لَا يَظْلِمُهُ وَلَا يُسْلِمُهُ وَمَنْ كَانَ فِي حَاجَةِ أَخِيهِ كَانَ اللَّهُ فِي حَاجَتِهِ وَمَنْ فَرَّجَ عَنْ مُسْلِمٍ كُرْبَةً فَرَّجَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرُبَاتِ يَوْمِ الْقِيَامَةِ وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 2262) : Telah menceritakan kepada kami Yahya bin Bukair, telah menceritakan kepada kami Al Laits dari 'Uqail dari Ibnu Syihab bahwa Salim mengabarkan bahwa 'Abdullah bin 'Umar radliallahu 'anhuma mengabarkan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ''Seorang muslim adalah saudara bagi muslim lainnya, dia tidak menzhaliminya dan tidak membiarkannya untuk disakiti. Siapa yang membantu kebutuhan saudaranya maka Allah akan membantu kebutuhannya. Siapa yang menghilangkan satu kesusahan seorang muslim, maka Allah menghilangkan satu kesusahan baginya dari kesusahan-kesusahan hari qiyamat. Dan siapa yang menutupi (aib) seorang muslim maka Allah akan menutup aibnya pada hari qiyamat''."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Diriwayatkan oleh Imam Imam al-Bukhari, Muslim, Abu Daud, al-Turmudzi, Ibn Majah, Ahmad."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Kandungan Hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini mengajarkan orang Islam menempatkan orang muslim lain sebagai saudara yang harus diwujudkan dalam solidaritas, dengan rincian:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1.	Orang muslim itu satu dengan yang lain bersaudara, tidak boleh melakukan kezaliman terhadap saudara tersebut, tidak pula membiarkannya disakiti orang lain."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="2.	Siapa yang membantu kebutuhan saudaranya maka Allah akan membantu kebutuhannya."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="3.	Siapa yang membantu mengatasi kesusahan seorang muslim, maka Allah menghilangkan kesusahan baginya dari kesusahan-kesusahan hari qiyamat."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="4.	Dan siapa yang menutupi (aib) seorang muslim maka Allah akan menutup aibnya pada hari qiyamat. Oleh sebab itu kita dilarang melakukan ghibah, yaitu membuka aib orang lain sebagaimana disebutkan dalam Al-Quran surah al-Hujurat ayat 12 وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا (janganlah sebagian kamu melakukan ghibah bagi sebagian yang lain). Dalam keadaan tertentu membuka aib dibenarkan, misalnya bertindak sebagai saksi di pengadilan, harus mengatakan apa adanya."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Egoisme telah membawa umat beragama lupa ajaran yang mulia ini. Berbeda partai, berbeda organisasi, berbeda latar belakang lainnya menyebabkan permusuhan di kalngan umat Islam dewasa ini. Berkenaan dengan topik ini ada baiknya kita perhatikan sabda Nabi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="...عَنْ أَنَسٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="…dari Anas dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: ''Tidaklah beriman seseorang dari kalian sehingga dia mencintai untuk saudaranya sebagaimana dia mencintai untuk dirinya sendiri''. Hadis ini diriwayatkan oleh Imam al-Bukhari, Ahmad dan al-Darimi."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Agar persaudaraan itu terpelihara Islam menganjurkan silatur rahim sebagaimana disebut di beberapa hadis antara lain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="... أَنَسُ بْنُ مَالِكٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ وَيُنْسَأَ لَهُ فِي أَثَرِهِ فَلْيَصِلْ رَحِمَهُ. رواه البخارى ومسلم"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="… Anas bin Malik bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ''Barangsiapa ingin lapangkan pintu rizqi untuknya dan dipanjangkan umurnya hendaknya ia menyambung tali silaturrahmi.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

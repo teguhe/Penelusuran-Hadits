@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hadis14">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:text="Hadis 4"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Tentang Perbuatan Dosa-dosa Besar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="20dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ بِلَالٍ عَنْ ثَوْرِ بْنِ زَيْدٍ الْمَدَنِيِّ عَنْ أَبِي الْغَيْثِ عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ اجْتَنِبُوا السَّبْعَ الْمُوبِقَاتِ قَالُوا يَا رَسُولَ اللَّهِ وَمَا هُنَّ قَالَ الشِّرْكُ بِاللَّهِ وَالسِّحْرُ وَقَتْلُ النَّفْسِ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَأَكْلُ الرِّبَا وَأَكْلُ مَالِ الْيَتِيمِ وَالتَّوَلِّي يَوْمَ الزَّحْفِ وَقَذْفُ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ الْغَافِلَاتِ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Telah bercerita kepada kami 'Abdul 'Aziz bin 'Abdullah berkata telah bercerita kepadaku Sulaiman bin Bilal dari Tsaur bin Zaid Al Madaniy dari Abu 'Al Ghoits dari Abu Hurairah radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam bersabda: ''Jauhilah tujuh perkara yang membinasakan''. Para sahabat bertanya: ''Wahai Rasulullah, apakah itu? Beliau bersabda: ''Syirik kepada Allah, sihir, membunuh jiwa yang diharamkan oleh Allah kecuali dengan haq, memakan riba, makan harta anak yatim, kabur dari medan peperangan dan menuduh seorang wanita mu'min yang suci berbuat zina''."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="Hadis ini diriwayatkan oleh Imam al-Bukhari, Muslim, Abu Daud dan Nasai."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Pesan/Kandungan Hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini menyebutkan tujuh macam dosa yang merusak kepribadian seseorang; yaitu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1. Syirik kepada Allah, yaitu meyakini ada entitas yang disamakan dengan Allah, seperti minta pertolongan jin, atau orang sakti dalam kubur agar yang memohon menjadi orang kaya, atau orang beruntung."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="2. Sihir. Ini mengarah kepada syirik karena meminta bantuan jin bahkan setan untuk kesenangan duniawi. Biasanya sihir digunakan untuk mengganggu eksistensi orang lain."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="3. Membunuh jiwa yang diharamkan oleh Allah kecuali dengan haq sebagaimana diatur dalam Al-Quran  bahwa membunuh dengan sengaja diancam dengan hukuman Qishash kecuali bila keluarga kurban memaafkannya. Adapun membunuh tidak sengaja diancam dengan diyat diatur tersendiri sebagaimana disebut dalam surah an-Nisa ayat 92."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="4. Memakan riba. Islam mengajarkan tolong menolong dengan sesama dalam mengatasi problem ekonomi. Islam menginstruksikan agar suka membantu orang yang sedang menghadapi problem ekonomi. Riba adalah prilaku ekonomi yang kelihatannya menolong dengan memberi pinjaman tetapi ujungnya memberi beban berat dalam angsuran atau pengembalian. Karena itu Allah memerintahkan agar pemberi pinjaman memberi tenggang waktu dari yang disepakati ketika peminjam ternyata belum mampu membayar hutang. Memaafkan hutang dengan menyedekahkan (menyatakan bersedia menerima pengembalian hutang yang jumlahnya lebih kecil dari pinjaman, entah seperberapanya) termasuk tindakan ekonomi yang terpuji, bukan malah menekan dengan jalan riba. (Al-Baqarah; 278-280)."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="5. Makan harta anak yatim. Islam mengajarkan agar kita peduli terhadap nasib anak yatim dan mengurus mereka hingga umur pantas dilepas mandiri. Bila anak yatim mempunyai harta banyak dari peninggalan orang tuanya, pengasuh boleh mengambil secukupnya dan sepantasnya sebagai kompensasi jerih payah. Lebih dari itu berarti pengasuh melakukan kecurangan. Hal itu dapat diketahui dari niatnya. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="6. Meninggalkan medan peperangan. Ketika perang sedang berkecamuk dan kita terlibat di dalamnya, meninggalkan perang begitu saja, maka ia tergolong pengecut, tidak bertanggungjawab dan termasuk dosa besar. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="7. Menuduh seorang wanita mu'min yang suci berbuat zina. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".hadis22">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:text="Hadis 2"
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Tentang Bersuci; Air untuk Bersuci"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ عَنْ مَالِكٍ عَنْ صَفْوَانَ بْنِ سُلَيْمٍ عَنْ سَعِيدِ بْنِ سَلَمَةَ مِنْ آلِ ابْنِ الْأَزْرَقِ أَنَّ الْمُغِيرَةَ بْنَ أَبِي بُرْدَةَ وَهُوَ مِنْ بَنِي عَبْدِ الدَّارِ أَخْبَرَهُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ يَقُولُ
+سَأَلَ رَجُلٌ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنْ الْمَاءِ فَإِنْ تَوَضَّأْنَا بِهِ عَطِشْنَا أَفَنَتَوَضَّأُ بِمَاءِ الْبَحْرِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ. رواه أبو داود والترمذى وابن ماجه وأحمد
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Artinya:"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(ABUDAUD - 76) : Telah menceritakan kepada kami Abdullah bin Maslamah dari Malik dari Shafwan bin Sulaim dari Sa'id bin Salamah dari keluarga Ibnu Al Azraq bahwa Al Mughirah bin Abi Burdah -dan ia dari Bani Abd Ad Dar, - mengabarkan kepadanya bahwa dia telah mendengar Abu Hurairah berkata; Ada seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam, seraya berkata; ''Wahai Rasulullah, kami naik kapal dan hanya membawa sedikit air, jika kami berwudhu dengannya maka kami akan kehausan, apakah boleh kami berwudhu dengan air laut?'' Maka Rasulullah shallallahu 'alaihi wasallam menjawab: ''Ia (laut) adalah suci airnya dan halal bangkainya.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Di sini Rasulullah tidak hanya menjelaskan kesucian air laut sebagaimana ditanyakan oleh shahabat, tetapi juga kesucian bangkai hewan laut. Sucinya air laut yang agaknya diduga tidak suci karena rasanya asin, dinyatakan suci seperti air sumur, air hujan, embun dan lainnya."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Air berfungsi sebagai (1) sarana berwudhu sebagai syarat ibadah dan sebagai (2) sarana membersihkan pakaian, makanan dan tempat dari najis. Berkenaan dengan wudhu sebagai syarat melakukan shalat kita perhatikan hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ عَنْ مَعْمَرٍ عَنْ هَمَّامٍ عَنْ أَبِي هُرَيْرَةَ
+عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يَقْبَلُ اللَّهُ صَلَاةَ أَحَدِكُمْ إِذَا أَحْدَثَ حَتَّى يَتَوَضَّأَ. رواه البخارى ومسلم وأبو داود والترمذى وأحمد
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 6440) : Telah menceritakan kepadaku Ishaq bin Nashr telah menceritakan kepada kami Abdurrazaq dari Ma'mar dari Hammam dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam bersabda: ''Allah tidak menerima shalat salah seorang diantara kalian jika berhadas hingga ia berwudhu.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Adapun bagaimana cara berwudhu, sebuah hadis menginformasikan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ قَالَ أَخْبَرَنَا أَبُو سَلَمَةَ الْخُزَاعِيُّ مَنْصُورُ بْنُ سَلَمَةَ قَالَ أَخْبَرَنَا ابْنُ بِلَالٍ يَعْنِي سُلَيْمَانَ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ ابْنِ عَبَّاسٍ
+أَنَّهُ تَوَضَّأَ فَغَسَلَ وَجْهَهُ أَخَذَ غَرْفَةً مِنْ مَاءٍ فَمَضْمَضَ بِهَا وَاسْتَنْشَقَ ثُمَّ أَخَذَ غَرْفَةً مِنْ مَاءٍ فَجَعَلَ بِهَا هَكَذَا أَضَافَهَا إِلَى يَدِهِ الْأُخْرَى فَغَسَلَ بِهِمَا وَجْهَهُ ثُمَّ أَخَذَ غَرْفَةً مِنْ مَاءٍ فَغَسَلَ بِهَا يَدَهُ الْيُمْنَى ثُمَّ أَخَذَ غَرْفَةً مِنْ مَاءٍ فَغَسَلَ بِهَا يَدَهُ الْيُسْرَى ثُمَّ مَسَحَ بِرَأْسِهِ ثُمَّ أَخَذَ غَرْفَةً مِنْ مَاءٍ فَرَشَّ عَلَى رِجْلِهِ الْيُمْنَى حَتَّى غَسَلَهَا ثُمَّ أَخَذَ غَرْفَةً أُخْرَى فَغَسَلَ بِهَا رِجْلَهُ يَعْنِي الْيُسْرَى ثُمَّ قَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَتَوَضَّأُ. رواه البخارى وأبن ماجه وأحمد والنسائى.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 137) : Telah menceritakan kepada kami Muhammad bin 'Abdurrahman berkata, telah mengabarkan kepada kami Abu Salamah Al Khaza'i Manshur bin Salamah berkata, telah mengabarkan kepada kami Ibnu Bilal -yaitu Sulaiman- dari Zaid bin Aslam dari 'Atha' bin Yasar dari Ibnu 'Abbas, bahwa dia berwudlu', ia mencuci wajahnya, lalu mengambil air satu cidukan tangan dan menggunakannya untuk berkumur dan istintsaq, lalu ia kembali mengambil satu cidukan tangannya dan menjadikannya begini -menuangkan pada tangannya yang lain-, lalu dengan kedua tangannya ia membasuh wajahnya, lalu mengambil air satu cidukan dan membasuh tangan kanannya, lalu kembali mengambil air satu cidukan dan membasuh tangannya yang sebelah kiri. Kemudian mengusap kepala, lalu mengambil air satu cidukan dan menyela-nyela kaki kanannya hingga membasuhnya, lalu mengambil air satu cidukan lagi dan membasuh kaki kirinya. Setelah itu ia berkata, ''Seperti inilah aku lihat Rasulullah shallallahu 'alaihi wasallam berwudlu.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Pelaksanaan berwudhu dalam hadis ini sedikit lebih rinci disbanding dengan yang terdapat dalam Al-Quran “dan basuhlah wajahmu dan kedua tanganmu hingga siku-siku dan usaplah kepalamu dan basuhlah kakimu.”"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Tayamum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Bagi mereka yang berhalangan wudhu karena sakit atau tidak mendapatkan air diperintahkan tayammum. Baik wudhu maupun Tayammum disebutkan perintahnya dalam Al-Quran. Hadis yang menyebutkan ajaran tayammum sebagai berikut:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا مُحَمَّدُ بْنُ سَلَامٍ قَالَ أَخْبَرَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ شَقِيقٍ قَالَ كُنْتُ جَالِسًا مَعَ عَبْدِ اللَّهِ وَأَبِي مُوسَى الْأَشْعَرِيِّ فَقَالَ لَهُ أَبُو مُوسَى لَوْ أَنَّ رَجُلًا أَجْنَبَ فَلَمْ يَجِدْ الْمَاءَ شَهْرًا أَمَا كَانَ يَتَيَمَّمُ وَيُصَلِّي فَكَيْفَ تَصْنَعُونَ بِهَذِهِ الْآيَةِ فِي سُورَةِ الْمَائِدَةِ { فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا }
+فَقَالَ عَبْدُ اللَّهِ لَوْ رُخِّصَ لَهُمْ فِي هَذَا لَأَوْشَكُوا إِذَا بَرَدَ عَلَيْهِمْ الْمَاءُ أَنْ يَتَيَمَّمُوا الصَّعِيدَ قُلْتُ وَإِنَّمَا كَرِهْتُمْ هَذَا لِذَا قَالَ نَعَمْ فَقَالَ أَبُو مُوسَى أَلَمْ تَسْمَعْ قَوْلَ عَمَّارٍ لِعُمَرَ بَعَثَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حَاجَةٍ فَأَجْنَبْتُ فَلَمْ أَجِد الْمَاءَ فَتَمَرَّغْتُ فِي الصَّعِيدِ كَمَا تَمَرَّغُ الدَّابَّةُ فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ إِنَّمَا كَانَ يَكْفِيكَ أَنْ تَصْنَعَ هَكَذَا فَضَرَبَ بِكَفِّهِ ضَرْبَةً عَلَى الْأَرْضِ ثُمَّ نَفَضَهَا ثُمَّ مَسَحَ بِهِمَا ظَهْرَ كَفِّهِ بِشِمَالِهِ أَوْ ظَهْرَ شِمَالِهِ بِكَفِّهِ ثُمَّ مَسَحَ بِهِمَا وَجْهَهُ.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 334) : Telah menceritakan kepada kami Muhammad bin Salam berkata; telah mengabarkan kepada kami Abu Mu'awiyah dari Al A'masy dari Syaqiq ia berkata; Aku pernah duduk bersama 'Abdullah bin Mas'ud dan Abu Musa Al Asy'ari. Lalu Abu Musa berkata kepadanya, ''Seandainya ada seseorang mengalami junub dan tidak mendapatkan air selama satu bulan, apakah dia bertayamum dan shalat? Dan bagaimana pendapatmu dengan ayat ini di dalam Surah Al Maidah ayat 6: '(Lalu kamu tidak memperaleh air, maka bertayammumlah dengan tanah yang baik (bersih) '? 'Abdullah, ''Seandainya mereka diberi keringanan dalam masalah ini, bisa jadi nantinya bila ada seseorang dari mereka yang kedinginan dengan air dia akan bertayamum dengan tanah.'' Syaqiq bertanya, ''Apakah kalian tidak suka masalah ini karena faktor itu?'' Dia menjawab, ''Ya.'' Kemudian Abu Musa berkata, ''Tidakkah kamu pernah mendengar ucapan 'Ammar kepada Umar, 'Rasulullah shallallahu 'alaihi wasallam mengutusku dalam suatu urusan, aku lalu junub dan tidak mendapatkan air. Maka aku pun berguling-guling di atas tanah seperti berguling-gulingnya hewan. Kemudian aku ceritakan hal tersebut kepada Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: ''Sebenarnya cukup buatmu bila kamu melakukan begini.'' Nabi shallallahu 'alaihi wasallam kemudian memukulkan telapak tangannya ke permukaan tanah dan mengibaskannya, lalu mengusap punggung tangan kanannya dengan telapak tangan kirinya, atau punggung telapak kirinya dengan telapak tangan kanannya, kemudian beliau mengusap wajahnya, telapak tangannya ke tanah, lalu mengusap muka dan kedua telapak tangannya. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="Sebenarnya para shahabat sudah paham bahwa tayammum itu menggantikan wudhu karena berhalangan. Namun demikian mereka tidak paham dengan kasus hadas besar. Mereka mengqiyaskan tayammum untuk hadas besar dengan mandi janabah, yaitu berguling di atas tanah seperti membasahi sekujur tubuh. Ternyata cara tayammum untuk hadas besar sama caranya dengan tayammum untuk hadas kecil."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

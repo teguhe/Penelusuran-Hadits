@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hadis17">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Hadis 7"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:text="Perbuatan Terpuji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="20dp"
+                android:background="#79ffffff"
+                android:text="و حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ عَنْ ابْنِ الْمُسَيَّبِ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَمْسٌ تَجِبُ لِلْمُسْلِمِ عَلَى أَخِيهِ رَدُّ السَّلَامِ وَتَشْمِيتُ الْعَاطِسِ وَإِجَابَةُ الدَّعْوَةِ وَعِيَادَةُ الْمَرِيضِ وَاتِّبَاعُ الْجَنَائِزِ "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(MUSLIM - 4022) : Telah menceritakan kepadaku Abd bin Humaid: Telah mengkhabarkan kepada kami Abdur Razzaq, telah mengkhabarkan kepada kami Ma’mar, dari Ibnu Syihab dari Ibnu Al Musayyab bahwa Abu Hurairah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ''Kewajiban seorang muslim terhadap sesama muslim ada lima: (1) Menjawab salam. (2) Mendoakan yang bersin. (3) Memenuhi undangan. (4) Mengunjungi yang sakit, dan (5) Ikut mengantar jenazah.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini diriwayatkan oleh Imam al-Bukhari, Muslim, Ibn Majah dan Ahmad."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Pesan/Kandungan Hadis"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini mengandung pesan "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="1. Menjawab salam. Bila ada orang mengucapkan salam kita diperintahkan menjawab salamnya. Pada hadis lain disebutkan, apabila kita bertemu diperintahkan mengucapkan salam, baik terhadap yang dikenal maupun tidak dikenal "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="2. Mendoakan orang bersin. Islam memberi tuntunan, orang bersin supaya membaca al-hamdu lillah. Kemudian orang yang mendengarnya diperintahkan mendoakan yarhamukallah."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="3. Mendatangi undangan. Islam mengajarkan mendatangi bila kita diundang untuk suatu hajat. Dalam hal ada alas an yang lebih penting, kita boleh tidak mendatanginya."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="4. Membezuk orang/teman yang sedang sakit, dan "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="5. Mengantar jenazah hingga ke kubur. Para ulama fiqh menjelaskan bahwa ada beberapa kewajiban bagi orang Islam bila ada orang Islam meninggal, disebut dengan wajib kifayah, yaitu: 1. Memandikan, 2. Mengkafani, 3. Menshalati, dan 4. Menguburnya."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Perlu dijelaskan di sini bahwa hadis dengan jalur periwayatan lain menyatakan bahwa kewajiban seorang muslim atas muslim lain ada 6, bukan 5; yaitu apabila ada orang meminta nasehat supaya dinasehati. Hadis dimaksud berbunyi:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:background="#79ffffff"
+                android:text="...عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ قِيلَ مَا هُنَّ يَا رَسُولَ اللَّهِ قَالَ إِذَا لَقِيتَهُ فَسَلِّمْ عَلَيْهِ وَإِذَا دَعَاكَ فَأَجِبْهُ وَإِذَا اسْتَنْصَحَكَ فَانْصَحْ لَهُ وَإِذَا عَطَسَ فَحَمِدَ اللَّهَ فَسَمِّتْهُ وَإِذَا مَرِضَ فَعُدْهُ وَإِذَا مَاتَ فَاتَّبِعْهُ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="…dari Abu Hurairah bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ''Hak seorang muslim terhadap seorang muslim ada enam perkara.'' Lalu beliau ditanya; 'Apa yang enam perkara itu, ya Rasulullah? ' Jawab beliau: (1) Bila engkau bertemu dengannya, ucapkankanlah salam kepadanya. (2) Bila dia mengundangmu, penuhilah undangannya. (3) Bila dia minta nasihat, berilah dia nasihat. (4) Bila dia bersin lalu dia membaca tahmid, doakanlah semoga dia beroleh rahmat. (5) Bila dia sakit, kunjungilah dia. (6) Dan bila dia meninggal, ikutlah mengantar jenazahnya ke kubur.'"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".hadis28">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Hadis 8"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Tentang Haji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Ibadah haji sebagai rukun Islam yang ke 5 telah diatur dalam Al-Quran di beberapa kelompok ayat di surat yang berbeda-beda. Lebih dari itu, saking pentingnya ibadah ini sampai ada surah khusus diberi nama surah al-Hajj. Hadis yang akan kita bicarakan berikut ini sifatnya melengkapi pelajaran haji dalam Al-Quran tersebut."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:background="#79ffffff"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا عَفَّانُ حَدَّثَنَا سُلَيْمَانُ بْنُ كَثِيرٍ أَبُو دَاوُدَ الْوَاسِطِيُّ قَالَ سَمِعْتُ ابْنَ شِهَابٍ يُحَدِّثُ عَنْ أَبِي سِنَانٍ عَنِ ابْنِ عَبَّاسٍ قَالَ
+خَطَبَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ يَا أَيُّهَا النَّاسُ كُتِبَ عَلَيْكُمْ الْحَجُّ قَالَ فَقَامَ الْأَقْرَعُ بْنُ حَابِسٍ فَقَالَ أَفِي كُلِّ عَامٍ يَا رَسُولَ اللَّهِ فَقَالَ لَوْ قُلْتُهَا لَوَجَبَتْ وَلَوْ وَجَبَتْ لَمْ تَعْمَلُوا بِهَا وَلَمْ تَسْتَطِيعُوا أَنْ تَعْمَلُوا بِهَا الْحَجُّ مَرَّةٌ فَمَنْ زَادَ فَهُوَ تَطَوُّعٌ.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(AHMAD - 2510) : Telah menceritakan kepada kami 'Affan telah menceritakan kepada kami Sulaiman bin Katsir Abu Dawud Al Wasithi berkata; aku telah mendengar Ibnu Syihab menceritakan dari Abu Sinan dari Ibnu Abbas, ia berkata; Rasulullah shallallahu 'alaihi wasallam menyampaikan khutbah kepada kami, beliau bersabda: ''Wahai manusia, telah diwajibkan haji atas kalian.'' Ia Ibnu Abbas berkata; Lalu Al Aqra' bin Habis berdiri dan berkata; ''Apakah setiap tahun wahai Rasulullah?'' beliau bersabda: ''Seandainya aku katakan “ya”, niscaya akan menjadi wajib (setiap tahun), dan bila itu diwajibkan, kalian tidak akan melakukannya dan tidak mampu melaksanakannya. Haji itu hanya sekali, barangsiapa yang menambah, maka itu adalah tathawwu' (amalan sunnah).''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Haji artinya menyengaja, menuju, berkunjung; maksudnya berkunjung ke tanah suci Makkah. Di dalamnya ada kegiatan yang dilakukan dimulai dari mengenakan pakaian ihram dari miqat; wuquf di Arafah, lempar jumrah, thawaf, sa’i, tahallul. Sebuah hadis menyebutkan bahwa inti ibadah haji adalah wuquf di Arafah. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:background="#79ffffff"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ قَالَا حَدَّثَنَا سُفْيَانُ عَنْ بُكَيْرِ بْنِ عَطَاءٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَعْمَرَ أَنَّ نَاسًا مِنْ أَهْلِ نَجْدٍ أَتَوْا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ بِعَرَفَةَ فَسَأَلُوهُ فَأَمَرَ مُنَادِيًا فَنَادَى الْحَجُّ عَرَفَةُ مَنْ جَاءَ لَيْلَةَ جَمْعٍ قَبْلَ طُلُوعِ الْفَجْرِ فَقَدْ أَدْرَكَ الْحَجَّ...."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="(TIRMIDZI - 814) : Telah menceritakan kepada kami Muhammad Basyar, telah menceritakan kepada kami Yahya bin Sa'id dan Abdurrahman bin Mahdi berkata; telah menceritakan kepada kami Sufyan dari Bukair bin 'Atha` dari Abdurrahman bin Ya'mar bahwa beberapa orang dari Najd menemui Rasulullah shallallahu 'alaihi wasallam saat beliau sedang berada di Arafah. Mereka bertanya tentang haji, lalu beliau memerintahkan orang dan dia berseru; 'Haji adalah Arafah, barangsiapa yang datang pada malam Arafah sebelum terbit fajar, maka dia telah mendapatkan haji. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Ungkapan “Haji adalah Arafah” maksudnya haji itu wukuf di Arafah. Wukuf yang menurut arti harfiyahnya berhenti mengandung arti bahwa kegiatan wukuf itu diam, merenung, tafakkur. Karenanya praktek wukuf adalah seperti I’tikaf di masjid. Orang yang sedang wukuf berpakaian ihram, pakaian warna putih tanpa potongan kecuali persegi panjang. Seolah mereka melakukan simulasi sedang berada di padang mahsyar menunggu nasib. Mereka tinggalkan pakaian kebesaran di tanah air yang dengannya ia dihormati orang. Di sini mereka sama, sederajat tidak ada yang harus dihormat atau menghormat, namun dianjurkan saling menolong. Diharapkan taqarrub kepada Allah di tempat yang disebut Arafah, pada hari Arafah, dapat menjadi orang Arif. Indikasinya, sesampainya di tanah air kelak jemaah haji benar-benar menjadi orang arif, tidak seombong atau arogan. Adalah sia-sia ibadah haji hanya menghasilkan gelar formal haji tetapi tidak dapat meninggalkan maksiyat. Karena itu keberhasilan haji yang intinya wukuf ini disebut haji mabrur."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Adapun balasan haji yang benar, disebut haji mabrur disebutkan dalam hadis:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:background="#79ffffff"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ أَخْبَرَنَا مَالِكٌ عَنْ سُمَيٍّ مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي صَالِحٍ السَّمَّانِ عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ
+أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْعُمْرَةُ إِلَى الْعُمْرَةِ كَفَّارَةٌ لِمَا بَيْنَهُمَا وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلَّا الْجَنَّةُ.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 1650) : Telah menceritakan kepada kami 'Abdullah bin Yusuf telah mengabarkan kepada kami Malik dari Sumayya, maulana Abu Bakar bin 'Abdurrahman dari Abu Shalih As-Samman dari Abu Hurairah radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam berkata: ''Umrah demi 'umrah berikutnya menjadi penghapus dosa antara keduanya dan haji mabrur tidak ada balasannya kecuali surga''."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Sesungguhnya ibadah haji itu seperti ibadah shalat, dapat dipamerkan. Shalat yang benar adalah shalat yang dapat mencegah pelakunya dari perbuatan yang munkar dan keji. Kalau boleh disebut, itu shalat “mabrur”. Puasa juga begitu. Ada hadis yang menerangkan, banyak orang puasa hanya memperoleh lapar dan haus, tidak dapat mengubah pribadinya menjadi orang yang lebih baik (la’allakum tattaqun). “Puasa mabrur” adalah puasa lahir-batin yang dapat membentuk pribadi terhindar dari sifat tercela. Sekarang haji. Tidak sedikit orang yang beribadah haji sekedar mendapat label haji, tetapi setelah sampai di tanah air prilakunya tidak mencerminkan dirinya sebagai hamba yang arif, pernah di Arafah untu wukuf di hari Arafah. Mengenakan pakaian ihram sekedar kamulfase seolah-olah ia orang suci."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Orang yang akan melaksanakan ibadah haji ketika hendak masuk kota Makkah harus mengenakan pakaian ihram dari tempat batas yang disebut miqat sesuai asal keberangkatan Mereka. Miqat jamaah dari arah Yaman berbeda dengan yang berasal dari Madinah. Hadis yang menerangkan miqat adalah:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:background="#79ffffff"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ حَدَّثَنَا وُهَيْبٌ حَدَّثَنَا ابْنُ طَاوُسٍ عَنْ أَبِيهِ عَنْ ابْنِ عَبَّاسٍ قَالَ
+إِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَّتَ لِأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ وَلِأَهْلِ الشَّأْمِ الْجُحْفَةَ وَلِأَهْلِ نَجْدٍ قَرْنَ الْمَنَازِلِ وَلِأَهْلِ الْيَمَنِ يَلَمْلَمَ هُنَّ لَهُنَّ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِهِنَّ مِمَّنْ أَرَادَ الْحَجَّ وَالْعُمْرَةَ وَمَنْ كَانَ دُونَ ذَلِكَ فَمِنْ حَيْثُ أَنْشَأَ حَتَّى أَهْلُ مَكَّةَ مِنْ مَكَّةَ
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(BUKHARI - 1427) : Telah menceritakan kepada kami Musa bin Isma'il telah menceritakan kepada kami Wuhaib telah menceritakan kepada kami Ibnu Thowus dari bapaknya dari Ibnu 'Abbas radliallahu 'anhuma berkata: ''Nabi Shallallahu'alaihiwasallam menetapkan miqat bagi penduduk Madinah di Dzul Hulaifah, bagi penduduk Syam di Al Juhfah, bagi penduduk Najed di Qarnul Manazil dan bagi penduduk Yaman di Yalamlam. Itulah ketentuan masing-masing bagi setiap penduduk negeri-negeri tersebut dan juga bagi mereka yang bukan penduduk negeri-negeri tersebut bila melewati tempat-tempat tersebut dan berniat untuk hajji dan 'umrah. Sedangkan bagi orang-orang selain itu (yang tinggal lebih dekat ke Makkah dari pada tempat-tempat itu), maka dia memulai dari kediamannya, dan bagi penduduk Makkah, mereka memulainya dari (rumah mereka) di Makkah''."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="Berdasarkan hadis ini, arah kedatangan jemaah haji/umrah itu ada 4 dengan batas miqat masing-masing. (1) Madinah dengan miqat Zul Hulaifah, sekarang disebut Bir Ali, (2) Syam dengan miqat Juhfah, (3) Najd dengan miqat Qarnal Manazil, dan (4) Yaman dengan miqat Yalamlam. Dalam hal ini jamaah Indonesia yang mendarat di Jeddah mengambil miqat Jeddah. Adapun jemaah yang melalui Madinah maka miqatnya seperti penduduk Madinah yaitu Bir Ali yang dalam hadis disebut Zul Hulaifah."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

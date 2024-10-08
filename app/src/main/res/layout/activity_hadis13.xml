@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hadis13">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20dp"
+                android:text="Hadis 2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:gravity="center_horizontal"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Tentang Iman, Islam, Ihsan, dan Tandatanda datangnya Hari Qiyamat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:layout_marginTop="20dp"
+                android:background="#79ffffff"
+                android:text="حَدَّثَنَا مُسَدَّدٌ قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا أَبُو حَيَّانَ التَّيْمِيُّ عَنْ أَبِي زُرْعَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَارِزًا يَوْمًا لِلنَّاسِ فَأَتَاهُ جِبْرِيلُ فَقَالَ مَا الْإِيمَانُ قَالَ الْإِيمَانُ أَنْ تُؤْمِنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَبِلِقَائِهِ وَرُسُلِهِ وَتُؤْمِنَ بِالْبَعْثِ قَالَ مَا الْإِسْلَامُ قَالَ الْإِسْلَامُ أَنْ تَعْبُدَ اللَّهَ وَلَا تُشْرِكَ بِهِ شَيْئًا وَتُقِيمَ الصَّلَاةَ وَتُؤَدِّيَ الزَّكَاةَ الْمَفْرُوضَةَ وَتَصُومَ رَمَضَانَ قَالَ مَا الْإِحْسَانُ قَالَ أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ قَالَ مَتَى السَّاعَةُ قَالَ مَا الْمَسْئُولُ عَنْهَا بِأَعْلَمَ مِنْ السَّائِلِ وَسَأُخْبِرُكَ عَنْ أَشْرَاطِهَا إِذَا وَلَدَتْ الْأَمَةُ رَبَّهَا وَإِذَا تَطَاوَلَ رُعَاةُ الْإِبِلِ الْبُهْمُ فِي الْبُنْيَانِ فِي خَمْسٍ لَا يَعْلَمُهُنَّ إِلَّا اللَّهُ ثُمَّ تَلَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ  إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ  ...الْآيَةَ ...ثُمَّ أَدْبَرَ فَقَالَ رُدُّوهُ فَلَمْ يَرَوْا شَيْئًا فَقَالَ هَذَا جِبْرِيلُ جَاءَ يُعَلِّمُ النَّاسَ دِينَهُمْ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Artinya:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Al- Bukhari berkata: Telah menceritakan kepada kami Musaddad berkata, Telah menceritakan kepada kami Isma'il bin Ibrahim telah mengabarkan kepada kami Abu Hayyan At Taimi dari Abu Zur'ah dari Abu Hurairah berkata; bahwa Nabi shallallahu 'alaihi wasallam pada suatu hari muncul kepada para sahabat, lalu datang Malaikat Jibril 'Alaihis Salam yang kemudian bertanya: ''Apakah iman itu?'' Nabi shallallahu 'alaihi wasallam menjawab: ''Iman adalah kamu beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, pertemuan dengan-Nya, Rasul-Rasul-Nya, dan kamu beriman kepada hari berbangkit''. (Jibril 'Alaihis salam) berkata: ''Apakah Islam itu?'' Jawab Nabi shallallahu 'alaihi wasallam: ''Islam adalah kamu menyembah Allah dan tidak menyekutukannya dengan suatu apapun, kamu dirikan shalat, kamu tunaikan zakat yang diwajibkan, dan berpuasa di bulan Ramadhan''. (Jibril 'Alaihis salam) berkata: ''Apakah ihsan itu?'' Nabi shallallahu 'alaihi wasallam menjawab: ''Kamu menyembah Allah seolah-olah melihat-Nya dan bila kamu tidak melihat-Nya sesungguhnya Dia melihatmu''. (Jibril 'Alaihis salam) berkata lagi: ''Kapan terjadinya hari kiamat?'' Nabi shallallahu 'alaihi wasallam menjawab: ''Yang ditanya tentang itu tidak lebih tahu dari yang bertanya. Tapi aku akan terangkan tanda-tandanya; (yaitu); jika seorang budak telah melahirkan tuannya, jika para penggembala unta yang berkulit hitam berlomba-lomba membangun gedung-gedung. Ada lima  yang tidak diketahui kecuali oleh Allah''. Kemudian Nabi shallallahu 'alaihi wasallam membaca: ''Sesungguhnya hanya pada Allah pengetahuan tentang hari kiamat'' (QS. Luqman: 34). Setelah itu Jibril 'Alaihis salam pergi, kemudian Nabi shallallahu 'alaihi wasallam berkata; ''hadapkan dia ke sini.'' Tetapi para sahabat tidak melihat sesuatupun, maka Nabi bersabda; ''Dia adalah Malaikat Jibril datang kepada manusia untuk mengajarkan agama mereka.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="Hadis ini diriwayatkan oleh Imam al-Bukhari, Muslim, Ahmad, Ibn Majah dan al-Turmudzi. Hadis ini berkualitas Shahih"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="Pesan/Kandungan Hadis:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Hadis ini berisi jawaban Nabi atas orang (yang ternyata Jibril) tentang Iman, Islam, Ihsan dan datangnya Hari Kiyamat."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Iman adalah percaya kepada: 1. Allah, 2. malaikat-malaikat-Nya, 3. kitab-kitab-Nya, 4. pertemuan dengan-Nya, 5. Percaya kepada Rasul-Rasul-Nya, dan 6. percaya kepada hari berbangkit."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Islam adalah 1. Menyembah Allah dan tidak menyekutukannya dengan suatu apapun, 2. Mendirikan shalat, 3. Menunaikan zakat yang diwajibkan, dan 4. Berpuasa di bulan Ramadhan."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Ihsan (dalam ibadah shalat) adalah melaksanakan shalat dengan khusyu’ seolah melihat Allah. Paling tidak, ketika itu menyadari /merasakan sedang dilihat oleh Allah SWT."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Tanda-tanda akan datangnya Hari Kiyamat adalah: 1. jika seorang wanita budak telah melahirkan tuannya. Ada yang memaknai kalimat ini bahwa bila anak tidak mau berbakti kepada orangtuanya, tetapi berlagak sebagai tuan. 2.  jika para penggembala unta yang berkulit hitam berlomba-lomba membangun gedung-gedung. Ada yang menjelaskan ungkapan ini bahwa kelak aka nada fenomena di mana rakyat jelata mempunyai keleluasaan baik dalam meraih pangkat maupun kekuasaan sehingga dapat berlomba membikin bangunan yang menjulang tinggi."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="Berkaitan dengan ini Rasulullah SAW membaca surah Luqman ayat 34: ''Sesungguhnya Allah, hanya pada sisi-Nya sajalah pengetahuan tentang Hari Kiamat; dan Dia-lah Yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tiada seorangpun yang dapat mengetahui (dengan pasti) apa yang akan diusahakannya besok. Dan tiada seorangpun yang dapat mengetahui di bumi mana dia akan mati.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

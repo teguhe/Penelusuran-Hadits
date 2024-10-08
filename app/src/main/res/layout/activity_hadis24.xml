@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".hadis24">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Hadis 4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Tentang Bahaya Meninggalkan Shalat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Begitu pentingnya shalat bagi orang mukmin sehingga shalat termasuk rukun Islam. Orang yang meninggalkan shalat tanpa alas an yang benar tergolong kafir atau musyrik sebagaimana disebutkan dalam hadis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ كِلَاهُمَا عَنْ جَرِيرٍ قَالَ يَحْيَى أَخْبَرَنَا جَرِيرٌ عَنْ الْأَعْمَشِ عَنْ أَبِي سُفْيَانَ قَالَ سَمِعْتُ جَابِرًا يَقُولُا
+سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ بَيْنَ الرَّجُلِ وَبَيْنَ الشِّرْكِ وَالْكُفْرِ تَرْكَ الصَّلَاةِ. رواه مسلم وأبو داود والترمذى وأحمد.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(MUSLIM - 116) : Telah menceritakan kepada kami Yahya bin Yahya at-Tamimi dan Utsman bin Abu Syaibah keduanya dari Jarir. Yahya berkata, telah mengabarkan kepada kami Jarir dari al-A'masy dari Abu Sufyan dia berkata, saya mendengar Jabir berkata, ''Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: ''Sungguh, yang memisahkan antara seorang laki-laki dengan kesyirikan dan kekufuan adalah meninggalkan shalat'.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Pada hadis berikut disebutkan ancaman bagi orang yang meninggalkan shalat secara sengaja"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ قَالَ أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ عَنْ مَكْحُولٍ عَنْ أُمِّ أَيْمَنَ
+أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا تَتْرُكْ الصَّلَاةَ مُتَعَمِّدًا فَإِنَّهُ مَنْ تَرَكَ الصَّلَاةَ مُتَعَمِّدًا فَقَدْ بَرِئَتْ مِنْهُ ذِمَّةُ اللَّهِ وَرَسُولِهِ. أحمد
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="(AHMAD - 26098) : Telah menceritakan kepada kami Walid bin Muslim dia berkata, telah mengabarkan kepada kami Sa'id bin 'Abdul Aziz dari Makhul dari Ummu Aiman bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ''Janganlah kamu meninggalkan shalat dengan sengaja, karena siapa yang meninggalkan shalat dengan sengaja maka perlindungan Allah dan Rasul-Nya akan terlepas darinya.''"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Sebuah hadis dalam al-Muwattha’ Imam Malik meriwayatkan tentang Khalifah Umar mengerjakan shalat shubuh di rumah pada hari setelah ditusuk ketika mengimami shalat Subuh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:background="#79ffffff"
+                android:textSize="17dp"
+                android:layout_marginTop="10dp"
+                android:text="حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ أَخْبَرَهُ
+أَنَّهُ دَخَلَ عَلَى عُمَرَ بْنِ الْخَطَّابِ مِنْ اللَّيْلَةِ الَّتِي طُعِنَ فِيهَا فَأَيْقَظَ عُمَرَ لِصَلَاةِ الصُّبْحِ فَقَالَ عُمَرُ نَعَمْ وَلَا حَظَّ فِي الْإِسْلَامِ لِمَنْ تَرَكَ الصَّلَاةَ فَصَلَّى عُمَرُ وَجُرْحُهُ يَثْعَبُ دَمًا.
+"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Artinya:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="(MALIK - 74) : Telah menceritakan kepadaku Yahya dari Malik dari Hisyam bin Urwah dari bapaknya; bahwa Al Miswar bin Makhramah mengabarinya, dia menemui Umar bin Khatthab di malam ketika ditikam, kemudian membangunkan Umar untuk shalat subuh, lalu dia berkata; ''Ya. Tidak ada bagian dalam Islam bagi siapa saja yang meninggalkan shalat,'' lalu Umar shalat dan ketika itu lukanya masih mengeluarkan darah. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
